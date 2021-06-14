@@ -1,0 +1,10 @@
+{
+    "name": "saniul",
+    "scripts": {
+        "start": "node index",
+        "production": "NODE_ENV=production nodemon index"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
